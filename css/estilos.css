@@ -1,11 +1,12 @@
-@import "css/Planetas/venus.css";
-@import "css/Planetas/tierra.css";
-@import "css/Planetas/marte.css";
-@import "css/Planetas/jupiter.css";
-@import "css/Planetas/saturno.css";
-@import "css/Planetas/urano.css";
-@import "css/Planetas/neptuno.css";
-
+@import "venus.css";
+@import "tierra.css";
+@import "marte.css";
+/*
+@import "jupiter.css";
+@import "saturno.css";
+@import "urano.css";
+@import "neptuno.css";
+*/
 body, html {
   height: 100%;
   overflow-x: hidden;
