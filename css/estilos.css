@@ -72,6 +72,7 @@ h1{
   .imageMercurio {
   background-image: url("../img/mercurio.jpg");
   height: 50%;
+  max-width:100%;
   }
 
 /*Tarjeta con informacion del planeta */
