@@ -60,7 +60,7 @@ h1{
 @media only screen and (max-width: 300px) {
 
 /* TODO EL CUERPO */
-  body{height: 100%;}
+  body{height: 100%; max-width: 100%;}
 
 
 /* MENU DE REGRESAR*/
@@ -72,7 +72,7 @@ h1{
   .imageMercurio {
   background-image: url("../img/mercurio.jpg");
   height: 50%;
-  max-width:100%;
+ 
   }
 
 /*Tarjeta con informacion del planeta */
